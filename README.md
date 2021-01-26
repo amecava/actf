@@ -1,7 +1,7 @@
 # Advanced Cybersecurity Topics
 
 * 01: shellcode writing
-* 02: binary mitigations 
+* 02: binary mitigations
 * 03: return oriented programming
 * 04: heap exploitation
 * 05: reverse engineering
