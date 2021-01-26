@@ -9,7 +9,7 @@
 * 07: web application security
 * 08: cross-site scripting
 * 09: malware analysis
-* 10-11: miscellaneous
+* 10: miscellaneous
 
 ## Authors
 
